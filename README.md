@@ -4,7 +4,7 @@
 
 ## 🚀 Tech Stack
 - **Frontend:** React, Next.js
-- **Backend:** PHP, MySQL
+- **Backend:** PHP, MySQL (managed with phpMyAdmin)
 - **Styling:** Tailwind CSS
 
 ## 🔧 API Testing with Postman
